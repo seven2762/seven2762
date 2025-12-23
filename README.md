@@ -12,26 +12,21 @@
 ## 📦 Projects
 
 **Chae-Chae Server**  
-MSA 기반 이커머스 백엔드를 설계·구현했습니다.  
-Saga 패턴, Redis 원자 연산, SSE 기반 완료 통지 분리를 통해  
-주문·결제 병목을 해소하고 p99 지연을 안정화했습니다.  
+MSA 기반 이커머스 백엔드
 
 🔗 Repository: https://github.com/team-chaechae/chae-chae-server
 
 ---
 
 **Spoticket**  
-스포츠 티켓 예매 플랫폼에서 분산 락 기반 동시성 제어를 구현했습니다.  
-Redisson과 Redis를 활용해 좌석 중복 예매와 쿠폰 초과 발급 문제를 해결했습니다.  
+스포츠 티켓 예매 플랫폼  
 
 🔗 Repository: https://github.com/spoticket/spoticket
 
 ---
 
 **Advertising Data Pipeline**  
-광고 성과 분석을 위한 대용량 데이터 파이프라인을 구축했습니다.  
-실시간 데이터 수집·처리와 DB 병목 완화를 중심으로 설계했습니다.
-
+광고 성과 분석을 위한 대용량 데이터 파이프라인을 구축
 ---
 
 ## 🛠️ Tech Stacks
