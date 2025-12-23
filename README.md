@@ -25,10 +25,6 @@ MSA 기반 이커머스 백엔드
 
 ---
 
-**Advertising Data Pipeline**  
-광고 성과 분석을 위한 대용량 데이터 파이프라인을 구축
----
-
 ## 🛠️ Tech Stacks
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
