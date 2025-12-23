@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&text=&fontColor=000000&fontSize=70" />
 </p>
 
-## Hello world!
+## 귀찮기 싫어서 귀찮은 개발자
 
 확장성과 정합성, 그리고 수치로 증명되는 성능 개선에 집중하는 백엔드 개발자입니다.  
 동시성 제어, 분산 트랜잭션, 이벤트 기반 아키텍처를 고민하며 시스템을 설계했습니다.
